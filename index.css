@@ -67,12 +67,6 @@ nav ul li a:hover {
     margin: 50px 0;
 }
 
-main hr {
-    border: 1px;
-    background: rgb(0, 0, 0);
-    height: 1.2px;
-    margin: 40px 84px;
-}
 /*--------------------about------------------------------*/
 #about{
     padding: 80px 0;
